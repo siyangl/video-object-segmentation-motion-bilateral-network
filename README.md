@@ -3,5 +3,5 @@ This is the repository for a video object segmentation method based on motion bi
 
 There are three modules:
 1. Motion bilateral network
-2. Seed graph cut
+2. Seed graph cut (MatLab code, to be added)
 3. Label propagation from seeds to pixels
